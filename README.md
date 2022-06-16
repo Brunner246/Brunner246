@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunner246&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brunner246"/>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brunner246&show_icons=true"/>
