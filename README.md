@@ -1,7 +1,6 @@
 ### Hi there, I'm Michael 👋
 
 -  🔭 I’m working at [cadwork](https://de.cadwork.swiss/) in software development. 
--  🌱 I’m currently studying Software-Engineering at FH Ost in Rapperswil. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brunner246&layout=compact"/>
 
